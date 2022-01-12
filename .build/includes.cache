@@ -1,0 +1,67 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\d.gualandris\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\2.0.0\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\d.gualandris\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\2.0.0\\variants\\MXChip_AZ3166"
+  },
+  {
+    "Sourcefile": "c:\\Users\\d.gualandris\\Documents\\IoTWorkbenchProjects\\examples\\firmware_ota\\Device\\.build\\sketch\\FirmwareOTA.ino.cpp",
+    "Include": "AZ3166WiFi.h",
+    "Includepath": "C:\\Users\\d.gualandris\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\2.0.0\\libraries\\WiFi\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\d.gualandris\\Documents\\IoTWorkbenchProjects\\examples\\firmware_ota\\Device\\.build\\sketch\\FirmwareOTA.ino.cpp",
+    "Include": "AzureIotHub.h",
+    "Includepath": "C:\\Users\\d.gualandris\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\2.0.0\\libraries\\AzureIoT\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\d.gualandris\\Documents\\IoTWorkbenchProjects\\examples\\firmware_ota\\Device\\.build\\sketch\\FirmwareOTA.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\d.gualandris\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\2.0.0\\libraries\\WiFi\\src\\AZ3166WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\d.gualandris\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\2.0.0\\libraries\\WiFi\\src\\AZ3166WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\d.gualandris\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\2.0.0\\libraries\\WiFi\\src\\AZ3166WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\d.gualandris\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\2.0.0\\libraries\\WiFi\\src\\AZ3166WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\d.gualandris\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\2.0.0\\libraries\\AzureIoT\\src\\AzureIotHub.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\d.gualandris\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\2.0.0\\libraries\\AzureIoT\\src\\DevKitMQTTClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\d.gualandris\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\2.0.0\\libraries\\AzureIoT\\src\\DevKitOTAUtils.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\d.gualandris\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\2.0.0\\libraries\\AzureIoT\\src\\DevkitDPSClient.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
